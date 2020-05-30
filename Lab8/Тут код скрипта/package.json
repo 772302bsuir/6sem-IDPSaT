@@ -1,0 +1,17 @@
+{
+    "name": "lab8",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "mongoose": "^5.9.16",
+        "run-func": "^1.0.5"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "init": "run-func index.js task1_1"
+    },
+    "author": "",
+    "license": "ISC"
+}
